@@ -1,6 +1,12 @@
 # FIND_YOUR_PET
 ENCUENTRA A TU MASCOTA CON AYUDA DE PERSONAS AMABLES!
-##Modelo relacional 
-![image](https://github.com/angelbri/FIND_YOUR_PET/assets/173078781/e3c6d25c-285b-4bbe-9857-37c5d404a550)
-![image](gatos_adorable-gatito-gafas-sol.jpg)
+# iNTRODUCCION 
+¡Bienvenidos a "FIND_YOUR_PET"!
+
+En esta plataforma dedicada al amor y cuidado de nuestros fieles compañeros, nos complace darles la más cordial bienvenida. Aquí, encontrarán una comunidad comprometida con el bienestar animal, dispuesta a ayudarles a reunirse con sus mascotas perdidas o a encontrar un nuevo amigo peludo para su hogar.
+
+Desde consejos útiles hasta historias inspiradoras, "Encuentra a tu Mascota" está diseñada para ser su recurso de confianza en todo lo relacionado con los animales. Únanse a nosotros en este viaje para celebrar la conexión única que compartimos con nuestras mascotas y para asegurar que cada patita encuentre su camino de regreso a casa.
+
+
+
 
